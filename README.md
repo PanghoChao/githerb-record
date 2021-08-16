@@ -1,19 +1,19 @@
-# githerb-record
- i start githerb record
+# github-record
+ i start github record
  
  
  
  
  
 # 목차 (Index)
- 1. 깃허브를 사용하는 이유 (Why use githerb?)
- 2. 깃허브 사용전에 알아야할 것들 ( Things to know before using githerb)
+ 1. 깃허브를 사용하는 이유 (Why use github?)
+ 2. 깃허브 사용전에 알아야할 것들 ( Things to know before using github)
     (1)깃 설명 
     (2)깃설치
      - 1 Mac OS버전(MAc OS-version)
      - 2 Window 버전 (window -version)
      
- 3. 깃허브 사용법(How to use githerb)
+ 3. 깃허브 사용법(How to use github)
  
  
  
